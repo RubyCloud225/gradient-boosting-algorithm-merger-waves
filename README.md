@@ -4,4 +4,4 @@ The objective is to predict the occurance of merger wave during the pandemic usi
 
 By using a custom algorithm we can see evidence of clustering indiciating the presence of a merger wave. 
 
-the accuracy level is very high.
+the accuracy level is very high, therefore the subject needs more work.
